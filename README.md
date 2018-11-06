@@ -1,2 +1,3 @@
-# FriendFinder
-FriendFinder is a dating app using full stack.
+# Friend Finder
+friend finder application
+
