@@ -1,8 +1,8 @@
 var friends = [
 	
 	{
-		name: "Zachary Keeshin",
-		photo: "https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-9/17190956_1686211724727533_539067892412082016_n.jpg?oh=0b55db7b8fc8368da8942736eac763f2&oe=59DBA741",
+		name: "Jeremy Jones",
+		photo: "https://reedfisher.com/pix/jeremy.jpg",
 		scores: [
 			"5",
 			"1",
@@ -17,8 +17,8 @@ var friends = [
 		]
 	},
 	{
-		name: "Penny Keeshin",
-		photo: "https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-9/12733450_10207890077428131_71717918753594055_n.jpg?oh=5a3b8de5ab0af58d176cf9b485876042&oe=59DE48D1",
+		name: "Sarah Witherspoon",
+		photo: "https://reedfisher.com/pix/sarah.jpg",
 		scores: [
 			"3",
 			"1",
@@ -33,9 +33,9 @@ var friends = [
 		]
 	},
 	{
-		name: "Brett Keeshin",
-		photo: "https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-9/556565_397318307001982_446614727_n.jpg?oh=ecca2cfb2ef048069d0f4c1abb6d3d52&oe=59E168E9",
-		score: [
+		name: "Brett Anderson",
+		photo: "https://reedfisher.com/pix/brett.jpg",
+		scores: [
 			"3",
 			"1",
 			"4",
@@ -46,6 +46,22 @@ var friends = [
 			"1",
 			"5",
 			"4"		
+		]
+	},
+	{
+		name: "Samuel Yadon",
+		photo: "https://reedfisher.com/pix/samuel.jpg",
+		scores: [
+			"2",
+			"2",
+			"5",
+			"2",
+			"5",
+			"1",
+			"1",
+			"2",
+			"1",
+			"5"		
 		]
 	}
 ];
